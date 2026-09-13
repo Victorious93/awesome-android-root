@@ -92,6 +92,7 @@ tools, sharing & intent tweaks, communication helpers and all-in-one power-user 
 
 - **[⭐ Essentials](https://github.com/sameerasw/essentials)** - Multi-purpose tweaks for display, notifications and alerts, security and privacy, sound and haptics, and app freezing. `FOSS`
 - **[APatch Utilities](https://github.com/lzghzr/APatch_kpm)** - Collection of utility modules for APatch. `FOSS`
+- **[BusyBox NDK](https://github.com/Magisk-Modules-Repo/busybox-ndk)** - Static BusyBox binary built for every Android architecture, adding 300+ classic Unix command-line utilities (`grep`, `awk`, `tar`, `sed`...) as a systemless Magisk module. `FOSS` `[M]`
 - **[GreaseMilkyway](https://play.google.com/store/apps/details?id=net.kollnig.greasemilkyway)** - Android accessibility service designed to help people with attention-related conditions (such as ADHD) manage their digital environment and focus on what matters. `FOSS` `[LSP]`
 - **[Kaorios Toolbox](https://github.com/Wuang26/Kaorios-Toolbox)** - Toolbox for the Kaorios ROM with Play Integrity fix, device and per-app property spoofing, Google Photos unlimited backup, payload dumper and high-FPS unlock. `Proprietary`
 - **[KernelSU Grant Toast](https://github.com/NativeStar/KernelSUGrantToast)** - Make KernelSU show a root granted toast like Magisk. `FOSS` `[K]`

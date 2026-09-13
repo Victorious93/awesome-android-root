@@ -68,10 +68,10 @@ automation apps (**Tasker, MacroDroid, Automate**) and hardware/sensor utilities
 ## Terminal & Shell
 
 - **[⭐ Termux](https://github.com/termux/termux-app)** - A terminal emulator application for Android OS extendible by variety of packages. `FOSS` | [🌱](https://f-droid.org/en/packages/com.termux)
-- **[Android 16 Linux Terminal VM Persistence](https://github.com/DigijEth/VM_Magisk_Module)** - Keeps Androids Linux terminal running in the background. `FOSS` `[M]` 
+- **[Android 16 Linux Terminal VM Persistence](https://github.com/DigijEth/VM_Magisk_Module)** - Keeps Androids Linux terminal running in the background. `FOSS` `[M]`
 - **[aShell You](https://github.com/DP-Hridayan/aShellYou)** - Android shell utility app with Material Design 3 UI, letting you run ADB, root and shell commands. `FOSS` | [🌱](https://apt.izzysoft.de/fdroid/index/apk/in.hridayan.ashell)
 - **[ReTerminal](https://github.com/RohitKushvaha01/ReTerminal)** - Material 3 terminal emulator built on Termux's TerminalView, with multiple sessions, virtual keys and Alpine Linux support. `FOSS`
-- **[Termux-Root-Recovery-Tool](https://github.com/Ishu43642/Termux-Root-Recovery-Tool)** - Install GSi Rom , Flashing Fastboot Rom, install Twrp Recovery, Boot.img & vbmeta.img files. `FOSS` 
+- **[Termux-Root-Recovery-Tool](https://github.com/Ishu43642/Termux-Root-Recovery-Tool)** - Install GSi Rom , Flashing Fastboot Rom, install Twrp Recovery, Boot.img & vbmeta.img files. `FOSS`
 - **[TermuxRootMods](https://github.com/rompelhd/TermuxRootMods)** - A Magisk module that enhances the Termux experience for rooted devices. `FOSS` `[M]`
 
 ## ADB & Debugging
@@ -111,9 +111,9 @@ automation apps (**Tasker, MacroDroid, Automate**) and hardware/sensor utilities
 
 - **[⭐ Droidspaces](https://github.com/ravindu644/Droidspaces-OSS)** - Run full Linux environments on top of Android, with complete init system support. `FOSS`
 - **[Auto-Linux](https://github.com/HanSoBored/Auto-Linux)** - A TUI application to install and manage Linux (chroot) environments on rooted Android devices. `FOSS`
-- **[Boot Nethunter](https://github.com/cipherswami/boot-nethunter)** - Boots Kali-Chroot (one Installed with Nethunter apk) in Termux. `FOSS` 
+- **[Boot Nethunter](https://github.com/cipherswami/boot-nethunter)** - Boots Kali-Chroot (one Installed with Nethunter apk) in Termux. `FOSS`
 - **[Chroot Distro](https://github.com/Magisk-Modules-Alt-Repo/chroot-distro)** - Install Gnu/Linux distributions on Android. `FOSS` `[M]`
-- **[DebDroid](https://github.com/NICUP14/DebDroid)** - Debian Container Runtime for Android. `FOSS` 
+- **[DebDroid](https://github.com/NICUP14/DebDroid)** - Debian Container Runtime for Android. `FOSS`
 - **[Magisk Docker](https://github.com/mgksu/dockerd)** - Magisk and KernelSU module for running Docker on rooted Android devices. `FOSS` `[M]` `[K]`
 - **[Trixie.apk](https://github.com/DesktopECHO/trixie.apk)** - Debian 13 (Trixie) Server/Desktop container for rooted Android 5.0+ devices. `FOSS`
 - **[Ubuntu Chroot](https://github.com/ravindu644/Ubuntu-Chroot)** - Run Ubuntu 24.04 on Android With full Hardware Access and pure namespace isolation. `FOSS` `[M]` `[K]`
